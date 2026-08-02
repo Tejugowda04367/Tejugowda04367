@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Tejaswini BS 👋
 
-<!--
-**Tejugowda04367/Tejugowda04367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Data Science Student
+💻 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java
+- SQL
+- Python
+- Spring Boot
+- Full Stack Development
+- AI & Machine Learning
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Advanced Java
+- System Design
+- Cloud Computing
+
+## 📂 Projects
+- Heart Attack Risk Prediction using Machine Learning
+- Student Management System (Java)
+- Library Management System
+- Full Stack Web Application
+
+## 🎯 Goal
+To become a Software Development Engineer (SDE) and build impactful software solutions.
+
+📫 Connect with me:
+- LinkedIn: (https://www.linkedin.com/in/tejaswini-bs-1146ba2a4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Email: (tejugowda876@gmail.com)
