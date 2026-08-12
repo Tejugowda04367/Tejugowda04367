@@ -20,7 +20,6 @@
 * Data Structures & Algorithms
 * Advanced Java
 * System Design
-* Cloud Computing
 * Cybersecurity Fundamentals
 
 ## 💡 Areas of Interest
