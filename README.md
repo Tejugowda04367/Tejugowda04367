@@ -20,9 +20,11 @@
 
 ## 📂 Projects
 - Heart Attack Risk Prediction using Machine Learning
-- Student Management System (Java)
+- Student Management System
+- Online Banking System
 - Library Management System
 - Full Stack Web Application
+- Exam Automation System-EVALORA
 
 ## 🎯 Goal
 To become a Software Development Engineer (SDE) and build impactful software solutions.
